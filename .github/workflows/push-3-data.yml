@@ -25,5 +25,5 @@ jobs:
           destination-github-username: 'gaemapiracicaba'
           destination-repository-name: 'gaemapiracicaba.github.io'
           target-branch: master
-          target-directory: /assets/acp-399-01
+          target-directory: /assets/acp-399-01/data
           commit-message: See ORIGIN_COMMIT from $GITHUB_REF
