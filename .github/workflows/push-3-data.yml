@@ -18,12 +18,12 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source-directory: 'data'
+          source-directory: 'maps'
           user-name: michelmetran
           user-email: michelmetran@gmail.com
 
           destination-github-username: 'gaemapiracicaba'
           destination-repository-name: 'gaemapiracicaba.github.io'
           target-branch: master
-          target-directory: /assets/acp-399-01/data
+          target-directory: /assets/acp-399-01
           commit-message: See ORIGIN_COMMIT from $GITHUB_REF
