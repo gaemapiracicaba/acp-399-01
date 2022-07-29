@@ -14,8 +14,7 @@ Em 27.11.2017 o Município de Cordeirópolis e MPSP pactuaram Termo de Ajustamen
 
 No detalhamento das obrigações assumidas pelo Município, é estabelecido que será necessário restaurar as nascentes indicadas no estudo em anexo.
 
-Como anexo é apresentado o *"Relatório Complementar sobre Adequação da Localização das nascentes 
-prioritárias"*, elaborado no ambito do *"Plano Diretor de Recomposição Florestal da Bacia Hidrográfica do Ribeirão do Tatu - Cordeirópolis/SP"*.
+Como anexo é apresentado o *"Relatório Complementar sobre Adequação da Localização das nascentes prioritárias"*, elaborado no ambito do *"Plano Diretor de Recomposição Florestal da Bacia Hidrográfica do Ribeirão do Tatu - Cordeirópolis/SP"*.
 O documento é de abril de 2017, elaborado pela empresa IRRIGART Engenharia e Consultoria em Recursos Hídricos e Meio Ambiente Ltda.
 
 No documento constam as 56 nascentes a serem restauradas, disponibilizadas em uma pasta zipada [***Shape.zip***](/data/input/Shapes.zip), bem como as áreas de contrubuição mapeadas.
