@@ -38,3 +38,15 @@ No documento constam as 56 nascentes a serem restauradas, disponibilizadas em um
 2. Ajustar com novidades
 
 <br>
+
+
+
+```bash
+# No Terminal, instalar o GDAL
+sudo apt-get update
+sudo apt-get install -y build-essential libxml2-dev libxslt1-dev
+sudo apt-get install libgdal-dev
+
+# 
+pip3 install -r requirements.txt
+```

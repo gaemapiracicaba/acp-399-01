@@ -1,10 +1,11 @@
 # Dados
+data/temp/
+data/input/temp/
 data/output/
 
 # IDEs
 .idea/
 .vscode/
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
