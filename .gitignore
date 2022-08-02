@@ -1,7 +1,6 @@
 # Dados
-data/temp/
 data/input/temp/
-data/output/
+data/output/geo/
 
 # IDEs
 .idea/
