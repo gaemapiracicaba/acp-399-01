@@ -17,12 +17,14 @@ output_path = data_path / 'output'
 temp_path = input_path / 'temp'
 maps_path = output_path / 'maps'
 shps_path = output_path / 'shps'
+geo_path = output_path / 'geo'
 
 input_path.mkdir(exist_ok=True)
 output_path.mkdir(exist_ok=True)
 temp_path.mkdir(exist_ok=True)
 maps_path.mkdir(exist_ok=True)
 shps_path.mkdir(exist_ok=True)
+geo_path.mkdir(exist_ok=True)
 
 
 # import os
